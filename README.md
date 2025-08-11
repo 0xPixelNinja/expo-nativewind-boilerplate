@@ -74,7 +74,7 @@ expo-nativewind-boilerplate/
 
 ## License
 
-This project is MIT licensed, which means you can use it pretty much however you want! Check the LICENSE file for the legal details if you're into that sort of thing.
+This project is Apache License, which means you can use it pretty much however you want! Check the LICENSE file for the legal details if you're into that sort of thing.
 
 ## Author
 
