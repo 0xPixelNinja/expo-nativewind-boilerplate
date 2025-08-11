@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "ExpoNativeWindBoilerplate",
+    "slug": "expo-nativewind-boilerplate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "exponativewindboilerplate",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#2563EB",
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.exponativewindboilerplate"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.yourcompany.exponativewindboilerplate"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
